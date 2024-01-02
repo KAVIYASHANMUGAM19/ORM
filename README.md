@@ -23,13 +23,10 @@ Enter the code for admin.py and models.py
 Execute Django admin and create 10 Football players
 
 ## PROGRAM
-
-Include your code here
+![image](https://github.com/KAVIYASHANMUGAM19/ORM/assets/155141139/a177d24d-42dc-4490-a44a-03f5bb1ef8d9)
 
 ## OUTPUT
-
-Include the screenshot of your admin page.
-
+![image](https://github.com/KAVIYASHANMUGAM19/ORM/assets/155141139/0c58ef5c-25e9-4dbb-9640-b3853fd67d27)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
